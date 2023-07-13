@@ -1,0 +1,12 @@
+svg{
+    width: 24px;
+    height: 24px;
+    fill: #b1bdc4;
+    position:absolute;
+    right:2px;
+    bottom:2px;
+  }
+
+svg:hover {
+    fill: #43b7fa;
+  }
